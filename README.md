@@ -22,8 +22,7 @@ Written by Chris Huynh
 
 ![alt text](user_repo4.png)
 
-Deployed To a Public Site Screenshot
-
+Screenshot of public website accessibility
 ![alt text](user_repo5.png)
 ## Links
 Github Repo: https://github.com/ceewizz/user_repo
