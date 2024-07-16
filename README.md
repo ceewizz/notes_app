@@ -4,7 +4,7 @@
 React Page that searches for user's Github Page displaying all their Repositories.
 
 ### Description
-When loading up the page there will be input placeholder where user can input any username from github and then after clicking on the Search button, the user's github page will load displaying all their repositories. On the right side of the page will also display the Name of the project, how many times the project had been forked. The programming language that was used to create the project and lastly how many stars the project receives.
+When loading up the page there will be input placeholder where user can input any username from github and then after clicking on the Search button, the user's github page will load displaying all their repositories. On the right side of the page will also display the Name of the project, how many times the project had been forked. The programming language that was used to create the project and lastly how many stars the project receives. By hitting the backspace on the keyboard or the username of a Github's user is mispelled the whole page including the Name: Fork Count: Language: and Stars: will clear out. When inserting random characters into the Github Username input box and then click on the search button, the page will load an error with an error message.Simply refresh the page.
 
 
 ## Credit
