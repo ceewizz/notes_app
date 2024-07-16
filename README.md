@@ -1,7 +1,7 @@
 
 
 ## Introduction
-React with API's Github
+React with API's Github. When loading up the page there will be input placeholder where user can input any username from github and then after clicking on the Search button, the user's github page will load displaying all their repositories. On the right side of the page will also display the Name of the project, how many times the project had been forked.
 
 
 ## Credit
